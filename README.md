@@ -1,4 +1,4 @@
-# CreditWise – Loan Approval Prediction
+# CreditWise – Loan Approval System
 
 ## Overview
 
